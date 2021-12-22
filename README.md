@@ -9,7 +9,9 @@ He desarrollado sitios web con salas de mensajes, creación de perfiles, con sec
  ![Hero](https://user-images.githubusercontent.com/58008352/147022048-d2a50c73-5e07-46a3-8551-b6bb5bbc1b53.jpg)
 
 </br>
+
 ## Skills
+
 </br>
 • HTML </br>
 • JAVASCRIPT </br>
