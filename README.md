@@ -1,18 +1,26 @@
-# Hola!, Andres Condo 👋
+# Hola!, Soy Andres Condo 👋
 
-## Quien soy y mi experiencia 💻🖥
-Developer FullStack en, el stack MERN con experiencia en Single Page Application y Progressive Web App con JavaScript vanilla, así como el uso de CSS de manera vanilla.
+## Quién soy y mi experiencia 💻🖥
+Soy FullStack Developer en el stack MERN con experiencia en Single Page Application y Progressive Web App con JavaScript vanilla, así como el uso de CSS de manera vanilla. 
 
 He desarrollado sitios web con salas de mensajes, creación de perfiles, con secciones para la publicación, y su posterior reación y comentador de cada una. Uso React para el Frontend con Hooks, y en el Backend con Nodejs y MongoDB.
 
+</br>
+## Skills
+• HTML
+• JAVASCRIPT
+• CSS
+• REACT
+• PYTHON
+• MONGODB
+• NODE
+• EXPRESS
 
----
 
-
+## Escríbeme
 Pueden preguntarme sobre cualquier cosa a mi Twitter donde estoy más activo, y si no se la respuesta, juntos la buscaremos 😁👌
 
-
----
+</br>
 
 ## Contáctame
 Puedes encontrarme en todas mis redes sociales como **@andreescondo**
