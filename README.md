@@ -11,7 +11,6 @@ He desarrollado sitios web con salas de mensajes, creación de perfiles, con sec
 </br>
 
 ## Skills
-
 </br>
 • HTML </br>
 • JAVASCRIPT </br>
