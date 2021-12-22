@@ -10,6 +10,7 @@ He desarrollado sitios web con salas de mensajes, creación de perfiles, con sec
 
 </br>
 ## Skills
+</br>
 • HTML </br>
 • JAVASCRIPT </br>
 • CSS </br>
@@ -20,13 +21,10 @@ He desarrollado sitios web con salas de mensajes, creación de perfiles, con sec
 • EXPRESS </br>
 
 
-## Escríbeme
+## Escríbeme 💬 
 Pueden preguntarme sobre cualquier cosa a mi Twitter donde estoy más activo, y si no se la respuesta, juntos la buscaremos 😁👌
 
-</br>
-
-## Contáctame
-Puedes encontrarme en todas mis redes sociales como **@andreescondo**
+Puedes encontrarme en todas mis redes sociales como **@andreescondo**.
 </br>
 Creador del Hastag ``#PuedesHacerlo``  en Twitter
 
