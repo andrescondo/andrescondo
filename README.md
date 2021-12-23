@@ -3,7 +3,7 @@
 
 ### Soy freelancer full-stack MERN ✨
 
-[![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40andrescondo&style=social&url=https%3A%2F%2Ftwitter.com%2Fandreescondo)](https://twitter.com/andreescondo)
+[![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40andreescondo&style=social&url=https%3A%2F%2Ftwitter.com%2Fandreescondo)](https://twitter.com/andreescondo)
 
 ## Quién soy y mi experiencia 💻🖥
 Soy FullStack Developer en el stack MERN con experiencia en Single Page Application y Progressive Web App con JavaScript vanilla, así como el uso de CSS de manera vanilla, así como uso de React con Hook para el frontend, y Node con Express para el Backend, y manejo de MongoDB para las bases de datos. 
