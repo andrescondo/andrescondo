@@ -1,6 +1,6 @@
 # Hola!, Soy Andres Condo 👋
 
-![Follow Twitter](https://img.shields.io/twitter/url?label=Follow%20%40andrescondo&style=social&url=https%3A%2F%2Ftwitter.com%2Fandreescondo)
+[![https://img.shields.io/twitter/url?label=Follow%20%40andrescondo&style=social&url=https%3A%2F%2Ftwitter.com%2Fandreescondo]](https://twitter.com/andreescondo)
 
 ## Quién soy y mi experiencia 💻🖥
 Soy FullStack Developer en el stack MERN con experiencia en Single Page Application y Progressive Web App con JavaScript vanilla, así como el uso de CSS de manera vanilla. 
