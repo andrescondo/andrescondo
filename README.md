@@ -32,6 +32,7 @@ Pueden preguntarme sobre cualquier cosa a mi Twitter donde estoy más activo, y 
 Puedes encontrarme en todas mis redes sociales como **@andreescondo**.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andreescondo)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/andreescondo)
 </br>
 Creador del Hastag ``#PuedesHacerlo``  en Twitter
 
