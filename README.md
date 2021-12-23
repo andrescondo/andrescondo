@@ -35,7 +35,7 @@ Herramientas </br>
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-Estadisticas
+Estadisticas </br>
 ![E](https://github-readme-stats.vercel.app/api/top-langs/?username=andrescondo&theme=blue-green)
 
 
@@ -43,11 +43,13 @@ Estadisticas
 Pueden preguntarme sobre cualquier cosa a mi Twitter donde estoy más activo, y si no se la respuesta, juntos la buscaremos 😁👌
 
 Puedes encontrarme en todas mis redes sociales como **@andreescondo**.
+Creador del Hastag ``#PuedesHacerlo``  en Twitter.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andreescondo)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/andreescondo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-condo-50b1a7195/)
 </br>
-Creador del Hastag ``#PuedesHacerlo``  en Twitter
+
 
 <!--
 **andrescondo/andrescondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
