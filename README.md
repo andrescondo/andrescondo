@@ -1,5 +1,7 @@
-# Hola!, Soy Andres Condo 👋
+# Hola, mi nombre es Andres Condo 👋
 
+
+#### Soy freelancer full-stack MERN 
 [![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40andrescondo&style=social&url=https%3A%2F%2Ftwitter.com%2Fandreescondo)](https://twitter.com/andreescondo)
 
 ## Quién soy y mi experiencia 💻🖥
