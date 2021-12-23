@@ -2,6 +2,8 @@
 
 
 ### Soy freelancer full-stack MERN ✨
+
+[![WEB](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://andrescondo.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40andrescondo&style=social&url=https%3A%2F%2Ftwitter.com%2Fandreescondo)](https://twitter.com/andreescondo)
 
 ## Quién soy y mi experiencia 💻🖥
