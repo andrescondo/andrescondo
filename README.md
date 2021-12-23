@@ -3,7 +3,6 @@
 
 ### Soy freelancer full-stack MERN ✨
 
-[![WEB](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://andrescondo.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40andrescondo&style=social&url=https%3A%2F%2Ftwitter.com%2Fandreescondo)](https://twitter.com/andreescondo)
 
 ## Quién soy y mi experiencia 💻🖥
@@ -31,7 +30,7 @@ Con experiencia en la creación de salas de chats entre usuarios, creación de p
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</br>
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![reactRouter](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![reactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 
 Herramientas </br>
@@ -53,6 +52,7 @@ Creador del Hastag ``#PuedesHacerlo``  en Twitter.
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/andreescondo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-condo-50b1a7195/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+[![WEB](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://andrescondo.github.io)
 </br>
 
 
