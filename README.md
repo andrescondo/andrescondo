@@ -25,6 +25,8 @@ He desarrollado sitios web con salas de mensajes, creación de perfiles, con sec
 • NODE </br>
 • EXPRESS </br>
 
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
+
 
 ## Escríbeme 💬 
 Pueden preguntarme sobre cualquier cosa a mi Twitter donde estoy más activo, y si no se la respuesta, juntos la buscaremos 😁👌
