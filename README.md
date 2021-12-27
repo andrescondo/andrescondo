@@ -38,7 +38,6 @@ Herramientas </br>
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Estadísticas </br>
-![E](https://github-readme-stats.vercel.app/api/top-langs/?username=andrescondo&theme=blue-green)
 
 ![ES](https://github-readme-stats.vercel.app/api?username=andrescondo&theme=blue-green)
 
