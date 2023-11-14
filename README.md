@@ -37,9 +37,6 @@ Herramientas </br>
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Estadísticas </br>
-
-![ES](https://github-readme-stats.vercel.app/api?username=andrescondo&theme=blue-green)
 
 ## Escríbeme 💬
 Pueden preguntarme sobre cualquier cosa a mi Twitter donde estoy más activo, y si no se la respuesta, juntos la buscaremos 😁👌
@@ -51,7 +48,7 @@ Creador del Hastag ``#PuedesHacerlo``  en Twitter.
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/andreescondo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreescondo/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andreescondo)
-[![WEB](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://andrescondo.github.io)
+[![WEB](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://andrescondo.com)
 </br>
 
 
