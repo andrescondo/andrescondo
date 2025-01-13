@@ -6,9 +6,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40andreescondo&style=social&url=https%3A%2F%2Ftwitter.com%2Fandreescondo)](https://twitter.com/andreescondo)
 
 ## Quién soy y mi experiencia 💻🖥
-Soy FullStack Developer en el stack MERN con experiencia en Single Page Application y Progressive Web App con JavaScript vanilla, así como el uso de CSS de manera vanilla, así como uso de React con Hook para el frontend, y Node con Express para el Backend, y manejo de MongoDB para las bases de datos. 
+Soy FullStack Developer en el stack MERN con experiencia en Single Page Application y Progressive Web App con JavaScript vanilla, uso de CSS de manera vanilla y de preprocesadores, así como uso de React con Hook para el frontend, y Node con Express para el Backend, y manejo de MongoDB para las bases de datos. 
 
-Con experiencia en la creación de salas de chats entre usuarios, creación de perfiles de usuarios con su posterior adición de datos por perfil, con opción a cambio de rol. Publicación de "Notas" por usuarios, con posibilidad de comentar y reaccionar a las publcaciones. Validaciones en el frontend y backend para peticiones y respuestas de datos a dichas peticiones. Todo esto desarrollado con el Stack MERN.
+
+Con experiencia en creación de salas de chats, plataformas con manejo de perfiles y roles, también cuento con experiencia en el manejo de bases de datos, relaciones y no relaciones, y creación de aplicaciones móviles multiplataforma con Flutter.
  </br>
  
  ![Hero](https://user-images.githubusercontent.com/58008352/147022048-d2a50c73-5e07-46a3-8551-b6bb5bbc1b53.jpg)
@@ -20,7 +21,7 @@ Con experiencia en la creación de salas de chats entre usuarios, creación de p
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) </br>
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FLUTTER](https://img.shields.io/badge/flutter-404D59?style=for-the-badge)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -30,11 +31,11 @@ Con experiencia en la creación de salas de chats entre usuarios, creación de p
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</br>
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![reactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 
 Herramientas </br>
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![HOSTINGER](https://img.shields.io/badge/HOSTINGER-404D59?style=for-the-badge)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
