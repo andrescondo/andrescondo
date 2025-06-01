@@ -1,15 +1,15 @@
 # Hola, mi nombre es Andres Condo 👋
 
 
-### Soy freelancer full-stack MERN ✨
+### Soy FullStack Developer ✨
 
 [![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40andreescondo&style=social&url=https%3A%2F%2Ftwitter.com%2Fandreescondo)](https://twitter.com/andreescondo)
 
 ## Quién soy y mi experiencia 💻🖥
-Soy FullStack Developer en el stack MERN con experiencia en Single Page Application y Progressive Web App con JavaScript vanilla, uso de CSS de manera vanilla y de preprocesadores, así como uso de React con Hook para el frontend, y Node con Express para el Backend, y manejo de MongoDB para las bases de datos. 
+Hola, soy Andres Condo, desarrollador de software con 5 años de experiencia en el desarrollo de aplicaciones web escalables y eficientes. Poseo un sólido dominio en el STACK MERN, además de conocimientos en Laravel, Python, C# y bases de datos relacionales y no relacionales. He trabajado en el desarrollo de microservicios, sistemas monoliticos y Continuous Integration lo que me ha permitido adquirir una visión integral del proceso de desarrollo de software.
 
 
-Con experiencia en creación de salas de chats, plataformas con manejo de perfiles y roles, también cuento con experiencia en el manejo de bases de datos, relaciones y no relaciones, y creación de aplicaciones móviles multiplataforma con Flutter.
+Con experiencia en creación de salas de chats, plataformas con manejo de perfiles y roles y sistemas de gestión también cuento con experiencia en creación de aplicaciones móviles multiplataforma con Flutter.
  </br>
  
  ![Hero](https://user-images.githubusercontent.com/58008352/147022048-d2a50c73-5e07-46a3-8551-b6bb5bbc1b53.jpg)
@@ -45,7 +45,6 @@ Pueden preguntarme sobre cualquier cosa a mi Twitter donde estoy más activo, y 
 Puedes encontrarme en todas mis redes sociales como **@andreescondo**.
 Creador del Hastag ``#PuedesHacerlo``  en Twitter.
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andreescondo)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/andreescondo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreescondo/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andreescondo)
